@@ -43,7 +43,7 @@ Proyek ini menggunakan **data publik** dari Bursa Efek Indonesia (IDX). Terdiri 
 
 2. **Data Rasio Keuangan**
    - Diambil dari laporan keuangan tahunan (balance sheet & income statement).
-   - Rasio yang dianalisis: DER, Current Ratio, ROE, ICR, PBV.
+   - Rasio yang dianalisis: DER, Current Ratio, ICR, PBV.
    - Digunakan untuk mengevaluasi kesehatan dan nilai perusahaan.
 
 ### Cara Akses Data
@@ -74,11 +74,6 @@ Output dari proyek ini berupa:
 
 Semua hasil tersebut dapat dijadikan dasar analisis lanjutan oleh analis keuangan, akuntan, maupun pengambil kebijakan investasi.
 
----
-
-## 🤝 Let’s Connect
-
-Jika kamu tertarik dengan proyek ini, ingin berkolaborasi, atau sekadar berdiskusi:
 
 📩 **Reach out via:** [LinkedIn - Valentina Putri](https://linkedin.com/in/valentinaputri)  
 📁 **Repository:** [GitHub - valentinaaptr](https://github.com/valentinaaptr)
